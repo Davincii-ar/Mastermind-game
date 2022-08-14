@@ -13,7 +13,7 @@ Launch game.py to start the application.
 - Python 3.8
 - Tkinter
 
-## Features :
+## Features
 - Hints are purposely set in order:
   - Black = color isn't in the code
   - White = color is in the code, but not at the right position
