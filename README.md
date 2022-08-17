@@ -21,4 +21,4 @@ Launch game.py to start the application.
   
 - Choose the color by clicking it and it will be automatically added in the colonne
 - Click "test the line" button to check if the line is correct
-- After chosing a color or two colors and you want to reset your selection you should click "Erase the line".
+- After chosing a color or two colors and you want to reset your selection you should click "Erase the line"
